@@ -1,0 +1,48 @@
+body{
+  background-color: #0a0a23;
+}
+#game{
+  background-color: white;
+  width: 65%;
+  margin: 20px auto;
+  padding: 10px;
+}
+.characterBudget{
+  margin-right: 25px;
+}
+#partOfGame, #text{
+  border: 1px solid #0a0a23;
+  padding: 5px;
+}
+.indicate{
+  margin-left: 5px;
+}
+button{
+  background-color: #feac32;
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border: solid #feac32;
+  cursor: pointer; 
+  padding: 3px;
+}
+#caption {
+  background-color: #0a0a23;
+}
+#text {
+  background-color: #0a0a23;
+  color: white;
+  padding: 10px ;
+  padding-left: 10px;
+}
+
+
+#monster {
+  background-color:#c70d0d;
+  padding: 5px;
+  display: none;
+}
+
+#monster span {
+  color: white;
+  margin-right: 30px;
+  margin-left: 5px;
+}
